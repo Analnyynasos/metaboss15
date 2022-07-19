@@ -1,0 +1,48 @@
+{
+  "name": "Fox #2308",
+  "symbol": "FFF",
+  "description": "The Famous Fox Federation, an independent organization of the most fabulously famous foxes on the Blockchain.",
+  "seller_fee_basis_points": 2000,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://ipfs.io/ipfs/QmdaLtDnxxGosWCd9fG1HBVxahRWcUGU2mQG1nFXTHgmPq",
+  "attributes": [
+{
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Armor Dark"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Natural"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Valet"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FZ9XCR9S7zWiAupBms1T6wXpH2MEkZxtREy2UroxdU3J",
+        "share": 100
+      }
+    ]
+  }
+}
